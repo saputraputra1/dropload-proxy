@@ -1,9 +1,5 @@
 {
   "name": "dropload-proxy",
   "version": "1.0.0",
-  "description": "DropLoad backend proxy — Instagram, Facebook, YouTube, TikTok, Twitter",
-  "private": true,
-  "engines": {
-    "node": ">=18"
-  }
+  "private": true
 }
